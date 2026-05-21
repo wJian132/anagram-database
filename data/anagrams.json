@@ -1,6 +1,12 @@
 {
     "items": [
-        "eislne": ["listen", "silent", "enlist", "tinsel", "inlets"],
-        "aeltr": ["alter", "alert", "later", "ratel", "taler"]
+        {
+            "groupId": "eislne",
+            "words": ["listen", "silent", "enlist", "tinsel", "inlets"]
+        },
+        {
+            "groupId": "aeltr",
+            "words": ["alter", "alert", "later", "ratel", "taler"]
+        }
     ]
 }
