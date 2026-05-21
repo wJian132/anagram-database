@@ -1,32 +1,44 @@
 {
-    "listen": {
-        "description": "To intentionally focus your attention on a sound or a speaker to understand what they are communicating"
-    },
-    "silent": {
-        "description": "A total absence of sound or a choice to refrain from speaking"
-    },
-    "enlist": {
-        "description": "To formally sign up or enroll, usually for military service, or to secure the help and support of someone for a cause"
-    },
-    "tinsel": {
-        "description": "A decorative material consisting of thin, shimmering strips of metal, plastic, or paper, traditionally draped over Christmas trees to create a glittering, icy effect"
-    },
-    "inlets": {
-        "description": "A geographical term for a narrow strip of water extending from a sea or lake into the land, or a passage between islands"
-    },
-    "alter": {
-        "description": "To change or modify something in some way, such as its size, shape, or character, without changing it into something entirely new"
-    },
-    "alert": {
-        "description": "A state of heightened watchfulness or a warning signal used to notify people of danger, an issue, or an important update"
-    },
-    "later": {
-        "description": "A time in the future or an event occurring after a present or previously mentioned time"
-    },
-    "ratel": {
-        "description": "Another name for the honey badger"
-    },
-    "taler": {
-        "description": "A historical silver coin widely used in German states between the 15th and 19th centuries"
-    }
+    "items": [
+        {
+            "word": "listen",
+            "description": "To intentionally focus your attention on a sound or a speaker to understand what they are communicating"
+        },
+        {
+            "word": "silent",
+            "description": "A total absence of sound or a choice to refrain from speaking"
+        },
+        {
+            "word": "enlist",
+            "description": "To formally sign up or enroll, usually for military service, or to secure the help and support of someone for a cause"
+        },
+        {
+            "word": "tinsel",
+            "description": "A decorative material consisting of thin, shimmering strips of metal, plastic, or paper, traditionally draped over Christmas trees to create a glittering, icy effect"
+        },
+        {
+            "word": "inlets",
+            "description": "A geographical term for a narrow strip of water extending from a sea or lake into the land, or a passage between islands"
+        },
+        {
+            "word": "alter",
+            "description": "To change or modify something in some way, such as its size, shape, or character, without changing it into something entirely new"
+        },
+        {
+            "word": "alert",
+            "description": "A state of heightened watchfulness or a warning signal used to notify people of danger, an issue, or an important update"
+        },
+        {
+            "word": "later",
+            "description": "A time in the future or an event occurring after a present or previously mentioned time"
+        },
+        {
+            "word": "ratel",
+            "description": "Another name for the honey badger"
+        },
+        {
+            "word": "taler",
+            "description": "A historical silver coin widely used in German states between the 15th and 19th centuries"
+        }
+    ]
 }
