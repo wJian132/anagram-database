@@ -1,4 +1,6 @@
 {
-    "eislne": ["listen", "silent", "enlist", "tinsel", "inlets"],
-    "aeltr": ["alter", "alert", "later", "ratel", "taler"]
+    "items": [
+        "eislne": ["listen", "silent", "enlist", "tinsel", "inlets"],
+        "aeltr": ["alter", "alert", "later", "ratel", "taler"]
+    ]
 }
