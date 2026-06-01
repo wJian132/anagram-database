@@ -1,11 +1,11 @@
 {
     "items": [
         {
-            "groupId": "eislne",
+            "groupId": "listen",
             "words": ["listen", "silent", "enlist", "tinsel", "inlets"]
         },
         {
-            "groupId": "aeltr",
+            "groupId": "alter",
             "words": ["alter", "alert", "later", "ratel", "taler"]
         }
     ]
