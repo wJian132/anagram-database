@@ -7,6 +7,14 @@
         {
             "groupId": "alter",
             "words": ["alter", "alert", "later", "ratel", "taler"]
+        },
+        {
+            "groupId": "spare",
+            "words": ["spare", "spear", "parse", "pears", "reaps"]
+        },
+        {
+            "groupId": "stare",
+            "words": ["stare", "rates", "tears", "tares", "aster", "resat"]
         }
     ]
 }
