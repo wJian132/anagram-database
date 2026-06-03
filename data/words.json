@@ -40,49 +40,49 @@
             "word": "taler",
             "description": "A historical silver coin widely used in German states between the 15th and 19th centuries"
         },
-  {
-    "word": "stare",
-    "description": "To look at something steadily or intently"
-  },
-  {
-    "word": "rates",
-    "description": "Measures, prices, or speeds of something"
-  },
-  {
-    "word": "tears",
-    "description": "Drops of liquid from the eyes, or to rip something apart"
-  },
-  {
-    "word": "tares",
-    "description": "Weeds resembling wheat plants"
-  },
-  {
-    "word": "aster",
-    "description": "A type of flowering plant with star-shaped blooms"
-  },
-  {
-    "word": "resat",
-    "description": "Sat again after having previously sat down"
-  },
-  {
-    "word": "spare",
-    "description": "Extra or additional; available for use"
-  },
-  {
-    "word": "spear",
-    "description": "A weapon with a pointed tip used for thrusting or throwing"
-  },
-  {
-    "word": "parse",
-    "description": "To analyse the structure of language or data"
-  },
-  {
-    "word": "pears",
-    "description": "A type of sweet, juicy fruit"
-  },
-  {
-    "word": "reaps",
-    "description": "To gather or harvest crops or rewards"
-  }
+        {
+            "word": "stare",
+            "description": "To look at something steadily or intently"
+        },
+        {
+            "word": "rates",
+            "description": "Measures, prices, or speeds of something"
+        },
+        {
+            "word": "tears",
+            "description": "Drops of liquid from the eyes, or to rip something apart"
+        },
+        {
+            "word": "tares",
+            "description": "Weeds resembling wheat plants"
+		},
+		{
+			"word": "aster",
+			"description": "A type of flowering plant with star-shaped blooms"
+		},
+		{
+			"word": "resat",
+			"description": "Sat again after having previously sat down"
+		},
+		{
+			"word": "spare",
+			"description": "Extra or additional; available for use"
+		},
+		{
+			"word": "spear",
+			"description": "A weapon with a pointed tip used for thrusting or throwing"
+		},
+		{
+			"word": "parse",
+			"description": "To analyse the structure of language or data"
+		},
+		{
+			"word": "pears",
+			"description": "A type of sweet, juicy fruit"
+		},
+		{
+			"word": "reaps",
+			"description": "To gather or harvest crops or rewards"
+		}
     ]
 }
