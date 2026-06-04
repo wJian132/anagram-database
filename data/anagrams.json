@@ -3,21 +3,25 @@
         {
             "groupId": 1,
             "baseWord": "listen",
+            "charCount": 6,
             "words": ["listen", "silent", "enlist", "tinsel", "inlets"]
         },
         {
             "groupId": 2,
             "baseWord": "alter",
+            "charCount": 5,
             "words": ["alter", "alert", "later", "ratel", "taler"]
         },
         {
             "groupId": 3,
             "baseWord": "spare",
+            "charCount": 5,
             "words": ["spare", "spear", "parse", "pears", "reaps"]
         },
         {
             "groupId": 4,
             "baseWord": "stare",
+            "charCount": 5,
             "words": ["stare", "rates", "tears", "tares", "aster"]
         }
     ]
