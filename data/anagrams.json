@@ -1,19 +1,23 @@
 {
     "items": [
         {
-            "groupId": "listen",
+            "groupId": 1,
+            "baseWord": "listen",
             "words": ["listen", "silent", "enlist", "tinsel", "inlets"]
         },
         {
-            "groupId": "alter",
+            "groupId": 2,
+            "baseWord": "alter",
             "words": ["alter", "alert", "later", "ratel", "taler"]
         },
         {
-            "groupId": "spare",
+            "groupId": 3,
+            "baseWord": "spare",
             "words": ["spare", "spear", "parse", "pears", "reaps"]
         },
         {
-            "groupId": "stare",
+            "groupId": 4,
+            "baseWord": "stare",
             "words": ["stare", "rates", "tears", "tares", "aster"]
         }
     ]
