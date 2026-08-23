@@ -21,7 +21,7 @@
             "anagramGroupIds": [1, 2, 3],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 4
         },
         {
@@ -29,7 +29,7 @@
             "anagramGroupIds": [1, 2],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 6
         },
         {
@@ -37,7 +37,7 @@
             "anagramGroupIds": [3, 4],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 9
         },
         {
@@ -45,7 +45,7 @@
             "anagramGroupIds": [1, 2, 3],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 11
         },
         {
@@ -53,7 +53,7 @@
             "anagramGroupIds": [1, 2],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 13
         },
         {
@@ -61,7 +61,7 @@
             "anagramGroupIds": [3, 4],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 16
         },
         {
@@ -69,7 +69,7 @@
             "anagramGroupIds": [1, 2, 3],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 18
         },
         {
@@ -77,7 +77,7 @@
             "anagramGroupIds": [1, 2],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 20
         },
         {
@@ -85,7 +85,7 @@
             "anagramGroupIds": [3, 4],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 22
         },
         {
@@ -93,7 +93,7 @@
             "anagramGroupIds": [1, 2, 3],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 25
         },
         {
@@ -101,7 +101,7 @@
             "anagramGroupIds": [1, 2],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 27
         },
         {
@@ -109,7 +109,7 @@
             "anagramGroupIds": [3, 4],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 30
         },
         {
@@ -117,7 +117,7 @@
             "anagramGroupIds": [1, 2, 3],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
             "unlockedRequirement": 33
         }
     ]
