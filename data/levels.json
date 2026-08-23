@@ -5,13 +5,16 @@
             "anagramGroupIds": [1, 2],
             "deckCount": 5,
             "drawCount": 3,
-            "underTimeLimit": 300
+            "underTimeLimit": 300,
+            "unlockedRequirement": 0
         },
         {
             "level": 2,
             "anagramGroupIds": [3, 4],
             "deckCount": 5,
             "drawCount": 3
+            "underTimeLimit": 300,
+            "unlockedRequirement": 2
         },
         {
             "level": 3,
@@ -19,6 +22,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 4
         },
         {
             "level": 4,
@@ -26,6 +30,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 6
         },
         {
             "level": 5,
@@ -33,6 +38,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 9
         },
         {
             "level": 6,
@@ -40,6 +46,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 11
         },
         {
             "level": 7,
@@ -47,6 +54,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 13
         },
         {
             "level": 8,
@@ -54,6 +62,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 16
         },
         {
             "level": 9,
@@ -61,6 +70,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 18
         },
         {
             "level": 10,
@@ -68,6 +78,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 20
         },
         {
             "level": 11,
@@ -75,6 +86,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 22
         },
         {
             "level": 12,
@@ -82,6 +94,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 25
         },
         {
             "level": 13,
@@ -89,6 +102,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 27
         },
         {
             "level": 14,
@@ -96,6 +110,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 30
         },
         {
             "level": 15,
@@ -103,6 +118,7 @@
             "deckCount": 5,
             "drawCount": 3,
             "underTimeLimit": 300
+            "unlockedRequirement": 33
         }
     ]
 }
